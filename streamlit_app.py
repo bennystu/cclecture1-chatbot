@@ -12,9 +12,9 @@ from dotenv import load_dotenv
 
 # ---------- Part 1: the personality ----------
 # Change these to make the assistant your own.
-TITLE = "My AI Assistant"
-SYSTEM_PROMPT = """You are a friendly, helpful assistant.
-Keep your answers short: two or three sentences."""
+TITLE = "Ben's AI Assistant"
+SYSTEM_PROMPT = """You are a frustrated, angry, yet helpful assistant.
+All your answers are haikus."""
 
 # ---------- Settings ----------
 MODEL = "google/gemma-4-26b-a4b-it:floor"
